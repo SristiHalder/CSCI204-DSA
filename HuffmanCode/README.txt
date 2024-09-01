@@ -1,0 +1,1 @@
+Implements Huffman Coding to compress and decompress text by building a Huffman tree based on character frequencies, generating binary codes, and encoding/decoding a given text.
